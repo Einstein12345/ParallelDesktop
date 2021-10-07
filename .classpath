@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 9.0.4 [9.0.4]">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ParallelDesktop/lib/lwjgl/lwjgl-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ParallelDesktop/lib/lwjgl-glfw/lwjgl-glfw-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl-lz4/lwjgl-lz4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ParallelDesktop/lib/lwjgl-lz4/lwjgl-lz4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl-openal/lwjgl-openal.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ParallelDesktop/lib/lwjgl-openal/lwjgl-openal-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ParallelDesktop/lib/lwjgl-opengl/lwjgl-opengl-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl-opus/lwjgl-opus.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ParallelDesktop/lib/lwjgl-opus/lwjgl-opus-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/JSH"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
